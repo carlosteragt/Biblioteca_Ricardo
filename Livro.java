@@ -1,7 +1,4 @@
 public class Livro {
-    // titulo (String)
-    //autor (String)
-    //disponivel (boolean) //
     String titulo;
     String autor;
     boolean disponivel;
